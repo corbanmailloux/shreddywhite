@@ -14,16 +14,13 @@ h1 {
 }
 
 .betty{
+  background: url(/images/shreddywhite.jpg) no-repeat;
   width: 600px;
   height: 600px;
   border-radius: 300px;
   -webkit-border-radius: 300px;
   -moz-border-radius: 300px;
-  background: url(http://shreddywhite.com/images/shreddywhite.jpg) no-repeat;
-  box-shadow: 0 0 8px rgba(0, 0, 0, .8);
-  -webkit-box-shadow: 0 0 8px rgba(0, 0, 0, .8);
-  -moz-box-shadow: 0 0 8px rgba(0, 0, 0, .8);
-
+  -o-border-radius: 300px;
 
   animation: rockingBetty linear 1.5s;
   animation-iteration-count: infinite;
