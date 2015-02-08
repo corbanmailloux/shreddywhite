@@ -1,28 +1,28 @@
 body {
-    background-color: black;
+  background-color: black;
 }
 
 h1 {
-    color: white;
-    text-align: center;
+  color: white;
+  text-align: center;
 }
 
 .center{
-    display: block;
-    margin-left: auto;
-    margin-right: auto
+  display: block;
+  margin-left: auto;
+  margin-right: auto
 }
 
 .betty{
-    width: 600px;
-    height: 600px;
-    border-radius: 300px;
-    -webkit-border-radius: 300px;
-    -moz-border-radius: 300px;
-    background: url(http://shreddywhite.com/images/shreddywhite.jpg) no-repeat;
-    box-shadow: 0 0 8px rgba(0, 0, 0, .8);
-    -webkit-box-shadow: 0 0 8px rgba(0, 0, 0, .8);
-    -moz-box-shadow: 0 0 8px rgba(0, 0, 0, .8);
+  width: 600px;
+  height: 600px;
+  border-radius: 300px;
+  -webkit-border-radius: 300px;
+  -moz-border-radius: 300px;
+  background: url(http://shreddywhite.com/images/shreddywhite.jpg) no-repeat;
+  box-shadow: 0 0 8px rgba(0, 0, 0, .8);
+  -webkit-box-shadow: 0 0 8px rgba(0, 0, 0, .8);
+  -moz-box-shadow: 0 0 8px rgba(0, 0, 0, .8);
 
 
   animation: rockingBetty linear 1.5s;
