@@ -7,6 +7,12 @@ h1 {
   text-align: center;
 }
 
+#audioPlayer {
+  display: table;
+  margin: 0 auto;
+}
+
+
 .center{
   display: block;
   margin-left: auto;
