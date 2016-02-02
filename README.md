@@ -1,3 +1,3 @@
 # shreddywhite
 
-This has been replaced by [Shredify.Me](https://github.com/corbanmailloux/shredify).
+This has been replaced by [Shredify.me](https://github.com/corbanmailloux/shredify).
